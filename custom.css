@@ -1,7 +1,7 @@
-#workbench\.view\.explorer>.open-editors>.monaco-list-rows {
+#workbench\.view\.explorer .open-editors .monaco-list-rows {
     zoom: 1.2;
 }
-#workbench\.view\.explorer>.explorer-folders-view>.monaco-list-rows {
+#workbench\.view\.explorer .explorer-folders-view .monaco-list-rows {
     zoom: 1.2;
 }
 .monaco-list-row {
