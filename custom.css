@@ -1,7 +1,8 @@
-.monaco-list-rows {
+#workbench.view.explorer > .open-editors > .monaco-list-rows {
+    zoom: 1.2;
+}
+#workbench.view.explorer > .explorer-folders-view > .monaco-list-rows {
     zoom: 1.2;
 }
 .monaco-list-row {
-    height: 26.4px !important;
-    line-height: 26.4px !important;
 }
