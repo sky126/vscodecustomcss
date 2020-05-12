@@ -4,3 +4,6 @@
 .tabs-breadcrumbs {
     font-size: 14px;
 }
+.tabs-container .monaco-icon-label-container .label-name {
+    font-size: 16px;
+}
