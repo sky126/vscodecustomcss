@@ -1,5 +1,5 @@
-.open-editors .monaco-list-rows, .explorer-folders-view .monaco-list-rows {
-    zoom: 1.2;
+.open-editors .monaco-list-row, .explorer-folders-view .monaco-list-row {
+    font-size: 16px !important;
 }
 .tabs-breadcrumbs {
     font-size: 14px;
