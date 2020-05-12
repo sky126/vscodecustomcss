@@ -5,4 +5,7 @@
     zoom: 1.2;
 }
 .monaco-list-row {
+    height: calc(var(height) * 1.2);
+    line-height: calc(var(line-height) * 1.2);
+    top: calc(var(top) * 1.2);
 }
